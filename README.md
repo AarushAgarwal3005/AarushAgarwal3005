@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushagarwal3005&label=Profile%20views&color=0e75b6&style=flat" alt="aarushagarwal3005" /> </p>
 
-- 🔭 I’m currently working on **Realtime Chat Application**
+- 🔭 I’m currently working on **Mern ECommerce Project**
 
 - 🌱 I’m currently learning **AWS, Nginx ,Docker**
 
