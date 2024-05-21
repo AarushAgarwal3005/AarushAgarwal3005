@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Nginx ,Docker**
 
-- 💬 Ask me about **JWT,Databases**
+- 💬 Ask me about **JWT,Databases Jawascript**
 
 - 📫 How to reach me **aarushagarwal.3005@gmail.com**
 
